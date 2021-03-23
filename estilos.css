@@ -1,0 +1,18 @@
+header {
+  color: white;
+  background-color: #555555;
+}
+
+main {
+  color: white;
+  background-color: #333333;
+}
+
+li {
+  display: block;
+  background-color: #cccccc;
+  list-style: none;
+  padding: 15px;
+
+
+}
