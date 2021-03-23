@@ -9,10 +9,9 @@ main {
 }
 
 li {
-  display: block;
+  display: inline-block;
   background-color: #cccccc;
   list-style: none;
-  padding: 15px;
-
-
+  padding: 20px;
 }
+
